@@ -28,7 +28,7 @@ const data = {
     ]
   }
   
-  console.log(data)
+  console.log(data);
   console.log('Name:', data.name);
   
   
